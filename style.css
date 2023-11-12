@@ -1,0 +1,15 @@
+html,body{
+    height:100%;
+    width:100%
+}
+img{
+    height:490px;
+    width:400px;
+    object-fit: cover;
+    object-position: top;
+   
+  
+    
+
+
+}
